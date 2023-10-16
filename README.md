@@ -1,2 +1,2 @@
 # react-http-requests
-Created with CodeSandbox
+Using react to make http requests
